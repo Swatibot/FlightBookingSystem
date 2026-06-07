@@ -63,10 +63,10 @@ The application provides a graphical interface where users can:
 * Receive booking confirmation
 
 ## Screenshots
-![Output 1](Output 1.png) 
+![Output 1](Output 1 .png) 
 
 
-![Output 2](Output 2.png)
+![Output 2](Output 2 .png)
 
 ## Author
 
